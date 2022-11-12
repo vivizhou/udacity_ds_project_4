@@ -37,8 +37,8 @@ Data Scheme
 - Gradient Boosted Trees Classifier
 
 ## Variables selected for prediction
-- catagorical variables: gender, user platform, having visited page thumbs down or roll advert or not 
-- numerical variables: percentage of use in the first half of the month, percentage of use in the first half of the day, average_itemInSession, average_length, total_length, num_unique_songs, num_unique_artists
+- Catagorical variables: gender, user platform, having visited page thumbs down or roll advert or not 
+- Numerical variables: percentage of use in the first half of the month, percentage of use in the first half of the day, average_itemInSession, average_length, total_length, num_unique_songs, num_unique_artists
 
 ## Results
 Gradient boosted tree classifier gave the best f1-score (0.75), but the random forest model gave the best accuracy (0.77).

@@ -3,7 +3,7 @@
 ## Introduction
 This project was one of the Udacity nanodegree Data Science Capstone projects. The motivation was to practice big data manipulation and machine learning using Spark and python.
 Churn prediction is to predict which users will unsubscribe from a service based on their behaviors. 
-The data analysed in this project is frictional data created by Udacity, which consitsts of user activity record in a music application.
+The data analysed in this project is frictional data created by Udacity, which consitsts of user activity record in a music streaming application.
 
 ## Data description
 Data Scheme

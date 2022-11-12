@@ -27,9 +27,14 @@ Data Scheme
 - userAgent: (string) User agent
 - userId: (string)
 
-## Sorfware version
+## Sorfware and library version
 - Python 3.6.3
 - Spark 2.4.3
+- numpy 1.12.1
+- pandas 0.23.3
+- matplotlib 2.1.0
+- seaborn 0.8.1
+- scipy 1.2.1
 
 ## Machine learning models
 - Logistic Model
